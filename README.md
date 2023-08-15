@@ -1,12 +1,12 @@
 # bookshelf
 BookShelf MERN Project 
+(MongoDB, Express JS, Node JS, React JS)
 
-
-Bookshelf
+# Bookshelf
 
 Welcome to Bookshelf, a simple web application for organizing and managing your books collection.
 
-Features
+# Features
 
 Easily to handle your books.
 you can update book details at any time.
@@ -14,14 +14,14 @@ If user wants to delete this book so that option is also available
 Responsive design for seamless usage on different devices.
 
 
-Technologies Used
+# Technologies Used
 
 HTML, CSS, and ReactJs for the frontend.
 Node.js and Express for the backend.
 MongoDB for the database.
 
 
-Getting Started
+# Getting Started
 
 Clone this repository: git clone https://github.com/shubham5538/bookshelf.git
 Install dependencies: npm install
@@ -31,6 +31,9 @@ Open your browser and visit: http://localhost:3000
 Screenshots 
 Bookshelf Preview
 
-Author
+# Author
 
 Shubham Patil
+
+# Contact
+email- shubhampatil080699@gmail.com
