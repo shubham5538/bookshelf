@@ -2,8 +2,6 @@
 BookShelf MERN Project 
 (MongoDB, Express JS, Node JS, React JS)
 
-# Bookshelf
-
 Welcome to Bookshelf, a simple web application for organizing and managing your books collection.
 
 # Features
@@ -27,8 +25,10 @@ Welcome to Bookshelf, a simple web application for organizing and managing your 
 1. Clone this repository: git clone https://github.com/shubham5538/bookshelf.git
 2. Install dependencies: npm install
 3. Configure your database settings in app.js.
-4. Run the application: npm start
-5. Open your browser and visit: http://localhost:3000
+4. Change the directorie in bookshelf (frontend) by using this command -    cd bookshelf
+5. Change the directorie in Backend (backend) by using this command  -      cd backend
+6. Run the application: npm start for frontend as well as backend
+7. Open your browser and visit: http://localhost:3000
 
  
 # Author
